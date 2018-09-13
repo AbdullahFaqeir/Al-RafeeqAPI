@@ -16,4 +16,4 @@ The project uses the latest NodeJS version and makes use await/async, and try to
 # License
 This project is free to use to anyone but without removing the refrence of the main author.
 
-make sure to follow me here and on twitter @AbdullahFaqei
+make sure to follow me here and on twitter @AbdullahFaqeir
